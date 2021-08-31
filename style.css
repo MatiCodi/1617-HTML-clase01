@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(242, 239, 245);
+    margin: 0;
+}
+div{
+    background-color: turquoise;
+    margin: 4%, 25%, 3%, 10%;
+    border-radius: 10px;
+    
+
+}
+div p{
+    color:red;
+
+}
+p{
+    color: blue;
+}
+.pepino{
+    color: peru;
+}
+
+
+
+
+
